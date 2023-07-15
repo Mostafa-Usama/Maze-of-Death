@@ -1,6 +1,5 @@
 # Maze-of-Death
 - All you have to do is download and extract the file 
-# Screenshots
 
 # Screenshots
 <p align='center'>
